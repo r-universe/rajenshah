@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FSInteract"]
+	path = FSInteract
+	url = https://github.com/cran/FSInteract
+	shallow = true
+	registered = true
+[submodule "LassoBacktracking"]
+	path = LassoBacktracking
+	url = https://github.com/cran/LassoBacktracking
+	shallow = true
+	registered = true
+[submodule "RPtests"]
+	path = RPtests
+	url = https://github.com/cran/RPtests
+	shallow = true
+	registered = true
